@@ -1,10 +1,4 @@
-# Redsift Engineering mini-test
-
-What skills are we looking for?
-
-- Analytic Skills - How can you think through problems and analyze things?
-- Coding Skills - Do you code well, by writing clean, simple, organized, readable code?
-- Technical knowledge - Do you know the fundamentals?
+# Mini-test
 
 ## Task 1
 
